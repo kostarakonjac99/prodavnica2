@@ -1,0 +1,15 @@
+Ovo je sistemski program za prodavnicu u kome je moguce logovanje i registrovanje na sistem.
+Registrovanje sluzi samo za kupce.
+Moguce funkcije kupca su:
+0)Provera akcija
+1)pregled magacina
+2)Ubacivanje proizvoda u korpu
+3)Izbacivanje proizvoda iz korpe
+4)Kupovina proizvoda
+5)Provera stanja budzeta
+6)Knjiga utisaka
+7)Izlaz
+Moguce funkcije za prodavca su:
+1)Provera budzeta
+2)Knjiga utisaka
+3)Editovanje fajlova
